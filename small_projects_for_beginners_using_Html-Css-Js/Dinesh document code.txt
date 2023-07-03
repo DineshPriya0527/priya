@@ -5,3 +5,8 @@ ipv4 address-192.168.0.102
 command
 ip address commant ip config 
 ip full form -internet protacall
+ytr6rtr6yr
+linus and mac os -terminals 
+window -command prompt -cmd 
+git 
+
