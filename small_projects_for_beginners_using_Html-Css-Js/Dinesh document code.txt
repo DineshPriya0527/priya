@@ -3,3 +3,5 @@ git command git clone -b
 git -- version
 ipv4 address-192.168.0.102
 command
+ip address commant ip config 
+ip full form -internet protacall
